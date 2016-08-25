@@ -1,1 +1,2 @@
-BigData UBC Competition # Economics_Competition
+Analysis of UN Economic Data.
+Explored signifcant indicators for economic development.
